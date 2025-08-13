@@ -1,4 +1,6 @@
-新篇章：Web API
+## 新篇章：Web API
+
+![DomAPI](../static/images/Web.png)
 
 1. ​**DOM 是特殊的 Web API**​：虽然 DOM 技术上属于 Web APIs 的一部分，但由于其核心地位常被单独讨论
 
