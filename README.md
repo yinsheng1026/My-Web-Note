@@ -16,21 +16,22 @@
 👉 所有贡献者都会记录在感谢列表里！
 让我们一起从菜鸟变成大佬吧 🚀
 
-Hello!​​ 👋 I'm learning front-end development and sharing my journey here. This repo includes:
+Hello!​​ 👋 I'm learning front-end development and sharing my journey here. This repo includes:你好!👋我正在学习前端开发，并在这里分享我的经历。这个回购包括：
 
-✅ ​HTML/CSS/JavaScript​ basics
-✅ Common mistakes & how to fix them
-✅ Small projects (with step-by-step comments)
+✅ ​HTML/CSS/JavaScript​ basics✅HTML/CSS/JavaScript基础
+✅ Common mistakes & how to fix them✅常见错误&如何解决它们
+✅ Small projects (with step-by-step comments)✅小型项目（附分步注释）
 
-​Need your help!​​ Feel free to:
-✏️ Correct my code errors
-💬 Suggest better ways to write things
-🚀 Add more examples or explanations
+​Need your help!​​ Feel free to:需要你的帮助！请随意：
+✏️ Correct my code errors✏️纠正我的代码错误
+💬 Suggest better ways to write things💬建议更好的写作方式
+🚀 Add more examples or explanations🚀添加更多的例子或解释
 
-​I especially struggle with:​​
-⚠️ Confusing concepts
-⚠️ Code that could be simpler
-⚠️ Missing real-world examples
+​I especially struggle with:​​我特别纠结于：
+⚠️ Confusing concepts   ⚠️混淆的概念
+⚠️ Code that could be simpler⚠️可以更简单的代码
+⚠️ Missing real-world examples⚠️缺少真实世界的例子
 
-All contributors will be listed in the ​​"Thanks To"​​ section!
+All contributors will be listed in the ​​"Thanks To"​​ section!所有贡献者将被列在“感谢”部分！
 
+🔗 ​Repo Link:​​ https://github.com/yinsheng1026/My-Web-Note.git
